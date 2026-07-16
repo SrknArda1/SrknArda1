@@ -15,7 +15,7 @@ Laravel · PHP · Filament · Tailwind · MySQL · SQLite · JavaScript · Pytho
 | NeuroPros | Yapay zekâ destekli biyonik protez konseptini yatırımcıya sunan tanıtım sitesi. | Laravel 12, Tailwind |
 | Minikitv | Çocuk ninnileri markası için içerik yönetim panelli platform. | Laravel 12, Filament, Tailwind 4 |
 | [Türkiye Çocuk Enstitüsü](https://github.com/SrknArda1/turkiye-cocuk-enstutusu) | Montessori/Waldorf eğitim kurumu için kurumsal landing page. | Laravel 12, Tailwind |
-| Harman Lojistik | Depo verilerini işleyip raporlayan analiz uygulaması. | Python, Flask, Pandas |
+| [Harman Lojistik](https://github.com/SrknArda1/Harman_Lojistik) | Depo verilerini işleyip raporlayan analiz uygulaması. | Python, Flask, Pandas |
 
 ---
 
